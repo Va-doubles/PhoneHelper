@@ -1,3 +1,3 @@
-PhoneHelper 手机查询小工具
+PhoneHelper
 1.查询手机剩余话费
 2.查询手机剩余流量
